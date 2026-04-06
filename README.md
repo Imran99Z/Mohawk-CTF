@@ -1,6 +1,5 @@
 # Mohawk-CTF
 - Launching our Mohawk CTF for the CyberSecurity Club. This will include all picoCTF and challenges done in past weeks. 
-- 
 
 # Hints for CTF: 
 - Remember Hash and Encryption 
