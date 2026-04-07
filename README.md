@@ -17,4 +17,8 @@
 - What to add for Difficulty 
 - Topics to Expand on 
 
+# MUST HAVE FOR THIS CTF 
+- Installed Python 
+- Installed Cryptography 
+
 
